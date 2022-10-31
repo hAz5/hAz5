@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hAz5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](hadi.alizadeh8167@gmail.com)
 
 <!---
